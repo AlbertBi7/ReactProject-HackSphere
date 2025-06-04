@@ -1,7 +1,7 @@
 {
   "name": "hacksphere2025",
   "version": "0.0.1",
-  "type": "module",
+  
   "scripts": {
     "dev": "vite",
     "build": "vite build",
